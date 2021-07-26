@@ -69,9 +69,12 @@ div {
 
 .p1 {
     display: block;
-    padding-left: 50px;
-    padding-top: 50px;
-    font-weight: 700px;
+    margin-left: 406px;
+    margin-top: 50px;
+    color: #fff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300px;
 }
 
 .p2 {
@@ -79,4 +82,34 @@ div {
     padding-left: 50px;
     padding-top: 89px;
     font-weight: 300px;
+}
+
+.but1 {
+    background: #34547A;
+    position: absolute;
+    width: 225px;
+    height: 65px;
+}
+
+
+/* .but2 {
+    position: absolute;
+    width: 143px;
+    height: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+} */
+
+.but2 {
+    width: 143px;
+    height: 15px;
+    color: #fff;
+    font-family: 'Roboto';
+    margin-left: 41px;
+    margin-top: 25px;
 }
