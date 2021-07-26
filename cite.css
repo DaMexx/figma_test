@@ -1,0 +1,28 @@
+/* @media screen 
+  and (min-device-width: 1280px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+} */
+
+html {
+    font-family: Roboto;
+}
+
+body {
+    margin: 0;
+}
+
+footer {
+    height: 151px;
+    background: #34547A;
+}
+
+div {
+    display: flex;
+    flex: 1;
+    flex-flow: row wrap;
+}
+
+.kek img {
+    height: 480px;
+}
