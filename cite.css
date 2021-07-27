@@ -180,12 +180,15 @@ body {
 
 /* ======numbers========================================================================================= */
 
+
+/* !ИСПРАВИТЬ ОТСТУПЫ ВНУТРИ */
+
 .numbers {
     position: absolute;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1920px;
+    width: 1905px;
     height: 250px;
     left: 0px;
     top: 1059px;
@@ -195,7 +198,35 @@ body {
 .numbers__img {
     width: 141px;
     height: 50px;
-    left: -405px;
+}
+
+
+/* ======skills========================================================================================== */
+
+.skills {
+    position: absolute;
+    width: 1150px;
+    height: 450px;
+    left: 386px;
+    top: 1411px;
+}
+
+.skills__title {
+    position: absolute;
+    width: 403px;
+    height: 30px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    top: 71px;
+}
+
+.skills__img {
+    position: absolute;
+    width: 555px;
+    height: 450px;
+    margin-left: 595px;
 }
 
 
