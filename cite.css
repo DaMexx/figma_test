@@ -140,6 +140,65 @@ body {
 }
 
 
+/* =====about-me====================================================================================== */
+
+.about-me {
+    position: absolute;
+    width: 540px;
+    height: 147px;
+    left: 690px;
+    top: 786px;
+}
+
+.about-me__title {
+    position: absolute;
+    width: 403px;
+    height: 30px;
+    left: 68px;
+    top: 0px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+}
+
+.about-me__text {
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    top: 87px;
+    left: 0px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+}
+
+
+/* ======numbers========================================================================================= */
+
+.numbers {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1920px;
+    height: 250px;
+    left: 0px;
+    top: 1059px;
+    background: #34547A;
+}
+
+.numbers__img {
+    width: 141px;
+    height: 50px;
+    left: -405px;
+}
+
+
 /* ======projects=========================================================================================*/
 
 
